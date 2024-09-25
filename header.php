@@ -180,11 +180,11 @@
                     <h5>Julie Sweet</h5>
                     <p>Admin</p>
                   </div>
-                  <a href="user-profile.html">
+                  <a href="user-profile.php">
                     <i class="icon-user1"></i> My Profile </a>
-                  <a href="account-settings.html">
+                  <a href="account-settings.php">
                     <i class="icon-settings1"></i> Account Settings </a>
-                  <a href="login.html">
+                  <a href="login.php">
                     <i class="icon-log-out1"></i> Sign Out </a>
                 </div>
               </div>

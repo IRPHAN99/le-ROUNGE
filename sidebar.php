@@ -9,7 +9,7 @@
 				
 				<!-- Sidebar brand start  -->
 				<div class="sidebar-brand">
-					<a href="index.html" class="logo">
+					<a href="index.php" class="logo">
 						<img src="img/logo.png" alt="Le Rouge Admin Dashboard" />
 					</a>
 				</div>
